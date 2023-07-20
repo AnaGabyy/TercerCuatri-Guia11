@@ -1,4 +1,4 @@
-package unoTest;
+package uno.unoTest;
 
 public class Main {
     public static void main(String[] args) {
